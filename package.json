@@ -1,0 +1,36 @@
+{
+  "name": "shey-fsm",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@clerk/nextjs": "^4.29.9",
+    "antd": "^5.15.3",
+    "dayjs": "^1.11.10",
+    "firebase": "^10.9.0",
+    "html-react-parser": "^5.1.9",
+    "lucide-react": "^0.363.0",
+    "mongoose": "^8.2.3",
+    "next": "14.1.4",
+    "nodemailer": "^6.9.13",
+    "react": "^18",
+    "react-dom": "^18",
+    "react-simple-wysiwyg": "^3.0.2",
+    "zustand": "^4.5.2"
+  },
+  "devDependencies": {
+    "@types/node": "^20",
+    "@types/nodemailer": "^6.4.14",
+    "@types/react": "^18",
+    "@types/react-dom": "^18",
+    "autoprefixer": "^10.0.1",
+    "postcss": "^8",
+    "tailwindcss": "^3.3.0",
+    "typescript": "^5"
+  }
+}
